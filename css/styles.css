@@ -1,0 +1,28 @@
+body{
+  background-color: #dedede;
+  font-style: oblique;
+  font-family: cursive;
+  font-weight: bold;
+}
+.first{
+  align-content: space-around;
+}
+head{
+  background-color: white;
+}
+hr{
+  border-style: dotted none none;
+  border-width: 7px;
+  border-color: white;
+  width:30%
+
+}
+h1{
+  color: #12d3cf;
+}
+h3{
+  color: #12d3cf;
+}
+h2{
+  color: white;
+}
